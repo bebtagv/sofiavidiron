@@ -1,0 +1,218 @@
+ { "Ads": [
+    {
+      "api_key_youtube":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube2":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube3":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube4":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube5":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "playlist_id":"",
+      "select_main_ads": "IRON",
+      "select_backup_ads":"",
+      "main_ads_banner": "DefaultBanner",
+      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"178df01e5",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More": [
+     
+  ],
+   "Video": [
+     {
+       "id": 1,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First Return To Merroway Cove",
+       "description": "Sofia The First Return To Merroway Cove",
+       "image": "https://i.ytimg.com/vi/cBpTuQ7TIL0/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "cBpTuQ7TIL0"
+     },
+     {
+       "id": 2,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First Forever Royal 2",
+       "description": "Sofia The First Forever Royal 2",
+       "image": "https://i.ytimg.com/vi/QrBXH-kXFVo/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "QrBXH-kXFVo"
+     },
+     {
+       "id": 3,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First Forever Royal #1",
+       "description": "Sofia The First Forever Royal #1",
+       "image": "https://i.ytimg.com/vi/9Xhy_hOnGYs/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "9Xhy_hOnGYs"
+     },
+     {
+       "id": 4,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First Return To Merroway Cove #5",
+       "description": "Sofia The First Return To Merroway Cove #5",
+       "image": "https://i.ytimg.com/vi/_J1bbczFFhs/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "_J1bbczFFhs"
+     },
+     {
+       "id": 5,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First Return To Merroway Cove #4",
+       "description": "Sofia The First Return To Merroway Cove #4",
+       "image": "https://i.ytimg.com/vi/w37LKFaZKfU/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "w37LKFaZKfU"
+     },
+     {
+       "id": 6,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First Return To Merroway Cove #3",
+       "description": "Sofia The First Return To Merroway Cove #3",
+       "image": "https://i.ytimg.com/vi/kTGntHmo6_I/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "kTGntHmo6_I"
+     },
+     {
+       "id": 7,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First Return To Merroway Cove #2",
+       "description": "Sofia The First Return To Merroway Cove #2",
+       "image": "https://i.ytimg.com/vi/0i_s-WAoN4I/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "0i_s-WAoN4I"
+     },
+     {
+       "id": 8,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Mystic Isles #6",
+       "description": "Sofia The First The Mystic Isles #6",
+       "image": "https://i.ytimg.com/vi/gtbH4yBYZ_s/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "gtbH4yBYZ_s"
+     },
+     {
+       "id": 9,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Mystic Isles #5",
+       "description": "Sofia The First The Mystic Isles #5",
+       "image": "https://i.ytimg.com/vi/0doQNOPOWCo/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "0doQNOPOWCo"
+     },
+     {
+       "id": 10,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Mystic Isles #4",
+       "description": "Sofia The First The Mystic Isles #4",
+       "image": "https://i.ytimg.com/vi/5T9xy4bStdk/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "5T9xy4bStdk"
+     },
+     {
+       "id": 11,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Mystic Isles #3",
+       "description": "Sofia The First The Mystic Isles #3",
+       "image": "https://i.ytimg.com/vi/Cg_hjzBHMfU/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "Cg_hjzBHMfU"
+     },
+     {
+       "id": 12,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Mystic Isles #2",
+       "description": "Sofia The First The Mystic Isles #2",
+       "image": "https://i.ytimg.com/vi/7U-ZXND7Uio/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "7U-ZXND7Uio"
+     },
+     {
+       "id": 13,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Mystic Isles #1",
+       "description": "Sofia The First The Mystic Isles #1",
+       "image": "https://i.ytimg.com/vi/rbYkDGFA_lY/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "rbYkDGFA_lY"
+     },
+     {
+       "id": 14,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Falcons´s Eye #6",
+       "description": "Sofia The First The Falcons´s Eye #6",
+       "image": "https://i.ytimg.com/vi/yrNK0x-bjNU/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "yrNK0x-bjNU"
+     },
+     {
+       "id": 15,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Falcons´s Eye #5",
+       "description": "Sofia The First The Falcons´s Eye #5",
+       "image": "https://i.ytimg.com/vi/2U31QVAm0pI/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "2U31QVAm0pI"
+     },
+     {
+       "id": 16,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Falcons´s Eye #4",
+       "description": "Sofia The First The Falcons´s Eye #4",
+       "image": "https://i.ytimg.com/vi/lLkuTllUDig/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "lLkuTllUDig"
+     },
+     {
+       "id": 17,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Falcons´s Eye #3",
+       "description": "Sofia The First The Falcons´s Eye #3",
+       "image": "https://i.ytimg.com/vi/MuDAQxzFcWE/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "MuDAQxzFcWE"
+     },
+     {
+       "id": 18,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Falcons´s Eye #2",
+       "description": "Sofia The First The Falcons´s Eye #2",
+       "image": "https://i.ytimg.com/vi/JGXFfmtlteA/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "JGXFfmtlteA"
+     },
+     {
+       "id": 19,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First The Falcons´s Eye #1",
+       "description": "Sofia The First The Falcons´s Eye #1",
+       "image": "https://i.ytimg.com/vi/e05IrAIx0lI/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "e05IrAIx0lI"
+     },
+     {
+       "id": 20,
+       "name_category": "Funny Videos",
+       "title": "Sofia The First A Royal Wedding #7",
+       "description": "Sofia The First A Royal Wedding #7",
+       "image": "https://i.ytimg.com/vi/3qLNTeM03zI/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "3qLNTeM03zI"
+     }
+   ]
+}
